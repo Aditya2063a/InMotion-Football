@@ -354,24 +354,6 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 - Documentation improvements
 - Bug fixes and testing
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Ultralytics** for the YOLO framework
-- **OpenCV** community for computer vision tools
-- **React** and **FastAPI** communities
-- **Football analytics** research community
-- **Open source contributors**
-
-## 📞 Support
-
-- 🌐 **Website**: [https://inmotionfootball.netlify.app/](https://inmotionfootball.netlify.app/)
-- 📧 **Email**: [Your email here]
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/InMotion-Football/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/InMotion-Football/discussions)
 
 ---
 
